@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import Contact from './Contact'
 import Products from './Products'
 import { CATALOG, CATEGORIES, COUNTS, SLUG, TOTAL } from './catalog'
 import { Button, Card, CTA, MAIL, PageHead, SALES, SUPPORT, Section, stock } from './ui'
@@ -346,85 +347,6 @@ function Support() {
         </div>
       </Section>
     </>
-  )
-}
-
-function Contact({ prod }: { prod: string | null }) {
-  return (
-    <>
-      <PageHead
-        kicker="Contact"
-        title={prod ? `Quote request — ${prod}` : 'Need more info on our RF coverage solutions?'}
-        lead="Tell us the band, the building and the network. We answer with a configuration."
-      />
-      <Section>
-        <div className="grid gap-10 lg:grid-cols-[1.4fr_1fr]">
-          <EnquiryForm prod={prod} />
-          <Card className="h-fit p-6">
-            <h2 className="font-bold tracking-tight">Direct</h2>
-            <dl className="mt-4 space-y-3 text-sm">
-              {[['Sales', SALES], ['Support', SUPPORT], ['General', MAIL]].map(([k, v]) => (
-                <div key={k}>
-                  <dt className="text-tint/65">{k}</dt>
-                  <dd><a href={`mailto:${v}`} className="font-mono text-[var(--color-signal)] underline-offset-4 hover:underline">{v}</a></dd>
-                </div>
-              ))}
-            </dl>
-          </Card>
-        </div>
-      </Section>
-    </>
-  )
-}
-
-function EnquiryForm({ prod }: { prod: string | null }) {
-  // No backend: the form composes a mailto, so nothing is silently dropped.
-  const fields = [
-    ['name', 'Name', 'text', true],
-    ['company', 'Company', 'text', false],
-    ['email', 'Email', 'email', true],
-    ['country', 'Country', 'text', false],
-  ] as const
-  return (
-    <form
-      className="grid max-w-2xl gap-4 sm:grid-cols-2"
-      onSubmit={(e) => {
-        e.preventDefault()
-        const d = new FormData(e.currentTarget)
-        const body = [...fields.map(([n, l]) => `${l}: ${d.get(n) ?? ''}`), `Interest: ${d.get('interest') ?? ''}`].join('\n')
-        window.location.href = `mailto:${SALES}?subject=${encodeURIComponent(prod ? `Quote request: ${prod}` : 'Website enquiry')}&body=${encodeURIComponent(body)}`
-      }}
-    >
-      {fields.map(([name, label, type, required]) => (
-        <Field key={name} name={name} label={label} type={type} required={required} />
-      ))}
-      <div className="sm:col-span-2">
-        <Field name="interest" label="What do you need?" textarea required defaultValue={prod ? `Please quote ${prod}.` : ''} />
-      </div>
-      <div className="flex flex-wrap items-center gap-4 sm:col-span-2">
-        <button type="submit" className="rounded-xl bg-[var(--color-signal)] px-5 py-3 text-sm font-bold text-ink transition hover:brightness-110">
-          Send enquiry
-        </button>
-        <p className="text-xs text-tint/60">Opens your email client with the message ready — nothing is stored on this site.</p>
-      </div>
-    </form>
-  )
-}
-
-function Field({ name, label, type = 'text', required, textarea, defaultValue }: { name: string; label: string; type?: string; required?: boolean; textarea?: boolean; defaultValue?: string }) {
-  const cls = 'w-full rounded-xl border border-tint/15 bg-tint/[0.04] px-4 py-3 text-[15px] outline-none transition focus:border-[var(--color-signal)]/60 focus:bg-tint/[0.07]'
-  return (
-    <label className="block">
-      <span className="mb-1.5 block text-xs font-semibold uppercase tracking-wider text-tint/65">
-        {label}
-        {required && <span className="text-[var(--color-signal)]"> *</span>}
-      </span>
-      {textarea ? (
-        <textarea name={name} required={required} rows={4} defaultValue={defaultValue} className={cls} />
-      ) : (
-        <input name={name} type={type} required={required} defaultValue={defaultValue} className={cls} />
-      )}
-    </label>
   )
 }
 

@@ -2,9 +2,8 @@
 
 @theme {
   --font-sans: "Inter Tight", ui-sans-serif, system-ui, sans-serif;
-  --color-ink: #05070d;          /* brand dark — constant, used on signal-coloured buttons */
+  --color-ink: #05070d;          /* brand dark — constant, used on accent-coloured buttons */
   --color-signal: #0f9e78;
-  --color-beam: #3b6dff;
   --color-page: #05070d;         /* page background  */
   --color-tint: #ffffff;         /* overlay colour: borders, text, surfaces */
 }
