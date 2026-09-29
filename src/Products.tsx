@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { BY_SLUG, CATALOG, CATEGORIES, COUNTS, SLUG, TOTAL, docUrl, filterFamilies } from './catalog'
+import { BY_SLUG, CATALOG, CATEGORIES, COUNTS, SLUG, TOTAL, WITH_DOCS, docUrl, filterFamilies } from './catalog'
 import { Card, PageHead, SALES } from './ui'
 
 export default function Products({ slug }: { slug?: string }) {
@@ -21,7 +21,7 @@ export default function Products({ slug }: { slug?: string }) {
       <PageHead
         kicker="Catalogue"
         title={category ?? 'All products'}
-        lead={`${TOTAL} part numbers across six product lines, 150 MHz to 3500 MHz. Every part carries a datasheet.`}
+        lead={`${TOTAL} part numbers across six product lines, 150 MHz to 3500 MHz. ${WITH_DOCS} carry a datasheet.`}
       />
 
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 sm:px-6 lg:grid-cols-[250px_1fr]">

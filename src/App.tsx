@@ -176,7 +176,7 @@ function Home() {
         </div>
       </section>
 
-      <Section title="Six product lines" lead="Every line is designed and manufactured in-house, with a datasheet on every part.">
+      <Section title="Six product lines" lead="Every line is designed and manufactured in-house.">
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {CATEGORIES.map((c) => {
             const cover = CATALOG[c].find((f) => f.image)?.image
