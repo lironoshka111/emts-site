@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EMTS">
+  <rect width="64" height="64" rx="14" fill="#002974"/>
+  <ellipse cx="32" cy="32" rx="26" ry="15" fill="none" stroke="#7d9ede" stroke-width="3.5" transform="rotate(-14 32 32)"/>
+  <ellipse cx="32" cy="32" rx="26" ry="15" fill="none" stroke="#fff" stroke-width="3.5" stroke-dasharray="52 90" transform="rotate(-14 32 32)"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#fff">E</text>
+</svg>

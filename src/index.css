@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter Tight", ui-sans-serif, system-ui, sans-serif;
+  --color-ink: #05070d;          /* brand dark — constant, used on signal-coloured buttons */
+  --color-signal: #0f9e78;
+  --color-beam: #3b6dff;
+  --color-page: #05070d;         /* page background  */
+  --color-tint: #ffffff;         /* overlay colour: borders, text, surfaces */
+}
+
+/* Light is the fallback for a viewer who asked for it; dark stays the default. */
+:root[data-theme="light"] {
+  --color-page: #f4f6fa;
+  --color-tint: #0a0f1a;
+  --color-signal: #0a7d5e;
+}
+:root[data-theme="dark"] {
+  --color-page: #05070d;
+  --color-tint: #ffffff;
+  --color-signal: #1fd6a6;
+}
+:root:not([data-theme="light"]) {
+  --color-signal: #1fd6a6;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--color-page);
+  color: color-mix(in srgb, var(--color-tint) 88%, var(--color-page));
+}
+
+/* The signal colour is a button fill; its label must stay legible in both themes. */
+:root[data-theme="light"] .text-ink { color: #ffffff; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+
+/* The brand mark is navy on paper; on the dark page it is knocked out to white. */
+.logo { filter: none; }
+:root:not([data-theme="light"]) .logo { filter: brightness(0) invert(1); }

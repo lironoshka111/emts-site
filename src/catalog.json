@@ -1,0 +1,2198 @@
+{
+ "RF Repeaters": [
+  {
+   "family": "450MHz Repeaters",
+   "image": "/products/r450-1.jpg",
+   "bullets": [
+    "Comply with CDMA / WCDMA / LTE standards.",
+    "Multiple types with composite output power from 20dBm to 40dBm.",
+    "Intelligent design, with built-in ALC function & Oscillation Prevention.",
+    "Automatic Level Control for tuning-free setup.",
+    "Local or Remote management for Configurable and alarms.",
+    "Designed specifically to answer the needs of 450MHz cellular systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-450-20W70",
+     "name": "450 MHz 20dBm WCDMA Mini Repeater",
+     "doc": "/media/com_product/images/thumb/450MHz_20dBm_WCDMA_Mini_Repeater_Model_MR-450-20W70.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MR-450-30W80",
+     "name": "450 MHz 30dBm WCDMA Power Repeater",
+     "doc": "/media/com_product/images/thumb/450MHz_30dBm_WCDMA_Power_Repeater_Model_MR-450-30W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-45-40W95",
+     "name": "450 MHz 40dBm WCDMA High Power Repeater",
+     "doc": "/media/com_product/images/thumb/450MHz_40dBm_WCDMA_High_Power_Repeater_Model_HPR-450-40W90.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "700MHz LTE Repeaters",
+   "image": "/products/r700.jpg",
+   "bullets": [
+    "Fully comply with LTE standard.",
+    "Supports all combinations of the LTE700MHz.",
+    "Provides Indoor / Outdoor coverage of the 700MHz band with Bandwidth of 1.4, 3, 5, 10, 15 or 20MHz selected by the GUI.",
+    "Multiple types with composite output power from 20dBm to37dBm.",
+    "Smart Automatic level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Local or Remote management for Configurable and alarms.",
+    "Designed specifically to answer the needs of LTE700MHz cellular systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-700-21W75",
+     "name": "LTE700MHz 21dBm Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-700-30W85-TB",
+     "name": "LTE700MHz 30dBm Tunable Bandwidth Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-700-37W90-TB",
+     "name": "LTE700MHz 37dBm Tunable Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "IHPR-700-40W95",
+     "name": "LTE700MHz 40 dBm Band Selective ICS Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm-700MHz-LTE-ICS-High-Power-Repeater_Model-IHPR-700-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "800 / 850MHz Japan Repeaters",
+   "image": null,
+   "bullets": [
+    "Comply with WCDMA and LTE standards.",
+    "Multiple types with composite output power from 16dBm up to 37dBm.",
+    "Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Local or Remote management for Configurable and alarms.",
+    "Designed specifically to answer the needs of Japan 800 and 850 MHz cellular systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-800J-16W70",
+     "name": "16dBm Japan 800MHz Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-800J-21W75",
+     "name": "21dBm Japan 800MHz Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-800J-30W85",
+     "name": "30dBm Japan 800MHz Band Selective Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-800J-37W90",
+     "name": "37dBm Japan 800MHz Tunable Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "EU LTE 800MHz Repeaters",
+   "image": "/products/r800.jpg",
+   "bullets": [
+    "Comply with EU LTE standards",
+    "Multiple types with composite Output power from 16dBm to 37dBm.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuouslyoutput level",
+    "Local or Remote management for configuration and alarms",
+    "Designed specifically to answer the needs of EU LTE 800MHzcellular systems"
+   ],
+   "products": [
+    {
+     "sku": "MR-800-16W70E",
+     "name": "800MHz EU LTE 16dBm Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-LTE-800-21W75E-TB",
+     "name": "800MHz EU LTE 21dBm Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-LTE-800-30W85E-TB",
+     "name": "800MHz EU LTE 30dBm Tunable bandwidth Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-800E-37W90",
+     "name": "800MHz EU LTE 37dBm Tunable Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "Cellular 850MHz Repeatersr",
+   "image": "/products/r850.jpg",
+   "bullets": [
+    "Comply with GSM, CDMA, WCDMA and LTE standards.",
+    "Multiple types with composite output power from 20dBm to 43dBm.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of Cellular 850MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-85-16W70C",
+     "name": "16dBm 850MHz Cellular Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-85-20W75C",
+     "name": "20dBm 850MHz Cellular Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-85-21W75C-TB",
+     "name": "21dBm 850MHz Cellular Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-85-30W85C-TB",
+     "name": "30dBm850MHz Cellular Tunable Bandwidth Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-85-43W95-TB",
+     "name": "43dBm850MHz Cellular High Power Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "SMR 850MHz Repeaters",
+   "image": "/products/smr850.jpg",
+   "bullets": [
+    "Comply with iDEN and LTE standards.",
+    "Multiple types with composite output power from 16dBm to 37dBm.",
+    "Selectable bandwidth by the GUI to support any partial or full band applications.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of SMR 850MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-85S-16W70",
+     "name": "16dBm 850MHz SMR-LTE Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-85S-21W75-TB",
+     "name": "21dBm 850MHz SMR-LTE Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-85S-30W85-TB",
+     "name": "30dBm 850MHz SMR-LTE TunableBandwidth Power Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "900 MHz Repeaters",
+   "image": "/products/r900.jpg",
+   "bullets": [
+    "Comply with GSM, WCDMA and LTE ETSI and 3GPP requirements.",
+    "Multiple types with composite Output power from 16dBm to 40dBm.",
+    "Supports both GSM and EGSM band configurations.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability.",
+    "Selectable bandwidth by the GUI to support any band configuration.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of the 900MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-90-16W70",
+     "name": "16dBm 900MHz Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-90D-18W65",
+     "name": "18dBm 900MHz Dual Block Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-90-21W75",
+     "name": "21dBm 900MHz Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-90-27W75-TB",
+     "name": "27dBm 900MHz Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-90-30W80-TB",
+     "name": "30dBm 900MHz Tunable Bandwidth Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-90-40W90",
+     "name": "40dBm 900MHz Tunable Bandwidth High Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "IHPR-9-40W95",
+     "name": "LTE & WCDMA 900MHz 40 dBm Band Selective ICS Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm-900MHz-LTE-ICS-High-Power-Repeater_Model-IHPR-9-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "PDC 1500 MHz Japan",
+   "image": "/products/r1500.jpg",
+   "bullets": [
+    "Comply with WCDMA and LTE standards and meets Japan 1500MHz PDC standard.",
+    "Multiple types with composite output power from 16dBm to 37dBm.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of the PDC 1500MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-15J-16W70",
+     "name": "16dBm 1500MHz Japan PDC Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-15J-21W75",
+     "name": "21dBm 1500MHz Japan PDC Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-15J-30W85",
+     "name": "30dBm 1500MHz Japan PDC Band Selective Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-15J-37W90",
+     "name": "37dBm 1500MHz Japan Tunable Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "AWS 1700MHz Repeaters",
+   "image": "/products/r1700.jpg",
+   "bullets": [
+    "Comply with WCDMA and LTE standards and meets AWS 1700MHz frequency band",
+    "Multiple types with composite output power from 16dBm to 37dBm",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuouslyoutput level",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability",
+    "Local or Remote management for configuration and alarms",
+    "Designed specifically to answer the needs of the AWS1700 MHz systems"
+   ],
+   "products": [
+    {
+     "sku": "MR-17-16W70",
+     "name": "16dBm AWS 1700MHz Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-17-21W75-TB",
+     "name": "21dBm AWS 1700MHz Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-17-30W85-TB",
+     "name": "30dBm AWS 1700MHz Tunable Bandwidth Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-17-37W90",
+     "name": "37dBm AWS 1700MHz Tunable Bandwidth High Power Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "1700MHz Japan Repeaters",
+   "image": "/products/j1700.jpg",
+   "bullets": [
+    "Comply with WCDMA and LTE standards and meets Japan 1700 MHz requirements.",
+    "Multiple types with composite output power from 20dBm to 37dBm",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuouslyoutput level",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability",
+    "Local or Remote management for configuration and alarms",
+    "Designed specifically to answer the needs of the Japan 1700MHz systems"
+   ],
+   "products": [
+    {
+     "sku": "MR-17J-16W70",
+     "name": "16dBm 1700MHz Japan Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-17J-21W75",
+     "name": "21dBm 1700MHz Japan Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-17J-30W85",
+     "name": "30dBm 1700MHz Japan Band Selective Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-17J-37W90",
+     "name": "37dBm 1700MHz Japan High Power Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "DCS 1800MHz Repeaters",
+   "image": "/products/r1800.jpg",
+   "bullets": [
+    "Comply with GSM and LTE standards and meets ETSI and 3GPP requirements.",
+    "Multiple types with composite output power from 20 up to 37dBm.",
+    "Automatic Level Control (ALC) ensures stable and adjustable continuously output level.",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Selectable bandwidth by the GUI to support to support any band configuration.",
+    "Local / Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of the DCS1800 MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-18-16W70",
+     "name": "16dBm 1800MHz DCS Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-18-21W75-2TB",
+     "name": "21dBm 1800MHz DCS Dual Block Tunable BW Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-18-21W75",
+     "name": "21dBm 1800MHz LTE Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-18-30W80-2TB",
+     "name": "30dBm 1800MHz DCS Tunable Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-18-37W90",
+     "name": "37dBm 1800MHz DCS High Power Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-18-10W70-TB-C",
+     "name": "10dBm LTE1800 Tunable BW pico Repeater",
+     "doc": "/media/com_product/images/thumb/10dBm_1800MHz_Tunabl_Pico_Repeater.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MR-18-20W80-TB-C",
+     "name": "20dBm LTE1800 Tunable BW mini Repeater",
+     "doc": "/media/com_product/images/thumb/20dBm_LTE1800MHz_Tunable_Mini_Repeater_Model_MR-18-20W80-TB-C.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "IHPR-18-40W95",
+     "name": "LTE 1800MHz 40 dBm Band Selective ICS Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm-1800MHz-ICS-High-Power-Repeater_Model-IHPR-18-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "PCS 1900MHz Repeaters",
+   "image": "/products/r1900.jpg",
+   "bullets": [
+    "Comply with GSM, WCDMA and LTE standards and meets ETSI and 3GPP requirements",
+    "Multiple types with composite output power from 16dBm to 40dBm.",
+    "Selectable bandwidth by the GUI to support any block configuration.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of the PCS1900 MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-19-16W75",
+     "name": "16dBm 1900MHz PCS Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-19-21W75",
+     "name": "21dBm 1900MHz PCS Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-19-21W75-2TB",
+     "name": "21dBm 1900MHz PCS DualBlock Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-19-30W80-TB",
+     "name": "30dBm 1900 MHz PCS Tunable Bandwidth Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-19-40W95-TB",
+     "name": "40dBm 1900MHz PCS High Power Tunable Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "UMTS 2100MHz Repeaters",
+   "image": "/products/r2100.jpg",
+   "bullets": [
+    "Comply with WCDMA and LTE standards and meets 2100MHz ETSI and 3GPP requirements.",
+    "Multiple types with composite output power from 20dBm up to 37dBm.",
+    "Selectable bandwidth by the GUI to support any block configuration.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of the UMTS2100MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-21-13W70",
+     "name": "13dBm2100MHz UMTS Band Selective Pico Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-21-16W75",
+     "name": "16dBm 2100MHz UMTS Band Selective Micro Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-21-20W75",
+     "name": "21dBm 2100MHz UMTS Band Selective Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-21-21W75-2TB",
+     "name": "21dBm 2100MHz UMTS Dual Block Tunable Bandwidth Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-21-30W85",
+     "name": "30dBm 2100MHz UMTS Band Selective Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-21-30W85-2TB",
+     "name": "30dBm 2100MHz UMTS Dual Block Tunable Bandwidth Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-21-40W90-TB",
+     "name": "40dBm 2100MHz UMTS Dual Block Tunable Bandwidth High Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "IHPR-21-40W95",
+     "name": "LTE & WCDMA 210MHz 40 dBm Band Selective ICS Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm-2100MHz-ICS-High-Power-Repeater_Model-IHPR-21-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "LTE 2600MHz Repeaters",
+   "image": "/products/r2600.jpg",
+   "bullets": [
+    "Comply with LTE standards and meets LTE 2600MHz frequency band.",
+    "Multiple types with composite Output power from 21dBm to37dBm.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management for configuration and alarms.",
+    "Designed specifically to answer the needs of the LTE 2600MHz systems."
+   ],
+   "products": [
+    {
+     "sku": "MR-26-21W70",
+     "name": "21dBm 2600MHz LTE Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-26-33W80",
+     "name": "33dBm 2600MHz LTE Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-26-37W90",
+     "name": "37dBm 2600MHz LTE High Power Band Selective Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "IHPR-26-40W95",
+     "name": "LTE 2600MHz 40 dBm Band Selective ICS Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm_2600MHz_LTE_ICS_High_Power_Repeater_Model_IHPR-26-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "850-1700MHz RF Repeaters",
+   "image": "/products/r850-1700.jpg",
+   "bullets": [
+    "Comply with Cellular 850MHz& AWS 1700MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPP standards.",
+    "Multiple types with composite output power from 21dBm to 35dBm",
+    "Low Noise figure&excellent linear RF performance",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Adjustable band with High selectivity for excellent out of band signal rejection.",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management through a wireless modem.",
+    "Isolation detection & oscillation suppression feature."
+   ],
+   "products": [
+    {
+     "sku": "MR-8517-21W70-TB",
+     "name": "21dBm 850-1700MHz Tunable Dual Band Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-8517-30W80-TB",
+     "name": "30dBm 850-1700MHz Tunable Dual Band Power Repeater",
+     "doc": "/media/com_product/images/30dBm%20850-1700MHz%20Tunable%20Dual%20Band%20Power%20Repeater_Model%20PR-8517-30W80-TB.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-8517-35W90-TB",
+     "name": "35dBm 850-1700MHz TunableDual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20850-1700MHz%20Tunable%20Dual%20Band%20High%20Power%20Repeater_Model%20HPR-8517-35W90-TB.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "850-1800MHz RF Repeaters",
+   "image": "/products/r850-1800.jpg",
+   "bullets": [
+    "Comply with Cellular 850MHz&DCS 1800MHz bands requirements, meetsGSM, WCDMA and LTE ETSI and 3GPPStandards.",
+    "Multiple types with composite output power from 21dBm to 35dBm.",
+    "Low Noise figure&excellent linear RF performance.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Selectable frequency band to support multi block configuration.",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management through a wireless modem.",
+    "Isolation detection & oscillation suppression feature."
+   ],
+   "products": [
+    {
+     "sku": "MR-8518-21W70-TB",
+     "name": "21dBm 850-1800MHz Tunable Dual Band Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-8518-30W80-TB",
+     "name": "30dBm 850-1800MHz Tunable Dual Band Power Repeater",
+     "doc": "/media/com_product/images/30dBm%20850-1800MHz%20Tunable%20Dual%20Band%20Power%20Repeater_Model%20No_PR-8518-30W80-TB.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-8518-35W90-TB",
+     "name": "35dBm 850-1800MHz Tunable Dual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20850-1800MHz%20Tunable%20Dual%20Band%20High%20Power%20Repeater_Model%20HPR-8518-35W90-TB.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "850-1900MHz RF Repeaters",
+   "image": "/products/r850-1900.jpg",
+   "bullets": [
+    "Comply with Cellular 850MHz & PCS 1900MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPPStandards.",
+    "Multiple types with composite output power from 21dBm to 35dBm.",
+    "Low Noise figure&excellent linear RF performance.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Selectable frequency band to support multi block configuration.",
+    "Efficient thermal characteristics and robust design result in high system reliability.",
+    "Local or Remote management through wireless modem.",
+    "Isolation detection & oscillation suppression feature."
+   ],
+   "products": [
+    {
+     "sku": "MR-8519-21W75",
+     "name": "21dBm850-1900MHz Dual Band Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-8519-30W80",
+     "name": "30dBm850-1900MHz Dual Band Power Repeater",
+     "doc": "/media/com_product/images/21dBm%20%20850-1900MHz%20Dual%20Band%20Mini%20Repeater_Model%20PR-8519-30W80.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-8519-35W90",
+     "name": "35dBm850-1900MHz Dual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20%20850-1900MHz%20Dual%20Band%20High%20Power%20Repeater_Model%20HPR-8519-35W90.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "850-2100MHz RF Repeaters",
+   "image": "/products/r850-2100.jpg",
+   "bullets": [
+    "Comply with Cellular 850MHz & 2100MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPPStandards.",
+    "Multiple types with composite output power from 21dBm to 35dBm.",
+    "Low Noise figure&excellent linear RF performance.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level",
+    "Selectable frequency band to support multi- block configuration.",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability.",
+    "Local or Remote management through wireless modem.",
+    "Isolation detection & oscillation suppression feature."
+   ],
+   "products": [
+    {
+     "sku": "MR-8521-21W70",
+     "name": "21dBm 850-2100MHz Dual Band Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-8521-30W80",
+     "name": "30dBm 850-2100MHz Dual Band Power Repeater",
+     "doc": "/media/com_product/images/30dBm%20850-2100MHz%20Dual%20Band%20Power%20Repeater_Model%20No_PR-8521-30W80.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-8521-35W90",
+     "name": "35dBm 850-2100MHz Dual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20%20850-2100MHz%20Dual%20Band%20High%20Power%20Repeater_Model%20No_HPR-8521-35W90.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "SMR 850MHz- AWS1700MHz",
+   "image": "/products/r850-1700.jpg",
+   "bullets": [
+    "Comply with iDEN 850MHz, LTE  850MHz& AWS 1700MHz bands requirements, meets iDEN, WCDMA and LTE Standards.",
+    "Very high out of band rejection to avoid cross bands interferences.",
+    "Multiple types with composite output power from 21dBm to 35dBm.",
+    "Low Noise figure&excellent linear RF performance.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level.",
+    "Multiple block type to support iDEN and LTE at the same unit.",
+    "Efficient thermal characteristics robust design result in high system reliability.",
+    "Local or Remote management through wireless modem."
+   ],
+   "products": [
+    {
+     "sku": "MR-85S17-21W70",
+     "name": "21dBm SMR850 - AWS1700MHz Dual Band MiniRepeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-85S17-30W80",
+     "name": "30dBm SMR850 - AWS1700MHz Dual Band Power Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-85S17-35W90",
+     "name": "35dBm SMR850 - AWS1700MHz Dual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20SMR850%20-%20AWS1700MHz%20Dual%20Band%20High%20Power%20Repeater_Model%20HPR-85S-17-35W90.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "900-1800MHz RF Repeaters",
+   "image": "/products/r900-1800.jpg",
+   "bullets": [
+    "Comply with 900MHz &DCS 1800MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPP Standards.",
+    "Multiple types with composite output power from 21dBm to 35dBm.",
+    "Low Noise figure&excellent linear RF performance",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level",
+    "Selectable frequency band to support multi-block configuration.",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability.",
+    "Local or Remote management through a wireless modem.",
+    "Isolation detection & oscillation suppression feature."
+   ],
+   "products": [
+    {
+     "sku": "MR-918-21W70",
+     "name": "21dBm 900-1800MHz Dual Band Mini Repeater",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "PR-918-30W80",
+     "name": "30dBm 900-1800MHzDual Band Power Repeater",
+     "doc": "/media/com_product/images/30dBm%20900-1800MHz%20Dual%20Band%20Power%20Repeater_Model%20No_PR-918-30W80.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-918-35W90",
+     "name": "35dBm 900-1800MHzDual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20900-1800MHz%20Dual%20Band%20High%20Power%20Repeater_Model%20No_HPR-918-35W90.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "900 - 2100 MHz RF Repeaters",
+   "image": "/products/r900-2100.jpg",
+   "bullets": [
+    "Comply with 900MHz & 2100MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPPStandards",
+    "Multiple types with composite output power from 21dBm to 35dBm",
+    "Low Noise figure&excellent linear RF performance",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustablecontinuouslyoutput level",
+    "Selectable frequency band to support multi block configuration",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability",
+    "Local or Remote management through wireless modem",
+    "Isolation detection & oscillation suppression feature"
+   ],
+   "products": [
+    {
+     "sku": "MR-921-21W70",
+     "name": "21dBm 900-2100MHz Dual Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/21dBm_900-2100MHz_Dual_Band_Mini_Repeater_Model_MR-921-21W70.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-921-30W80",
+     "name": "30dBm 900-2100MHzDual Band Power Repeater",
+     "doc": "/media/com_product/images/30dBm%20900-2100MHz%20Dual%20Band%20Power%20Repeater_Model%20PR-921-30W80.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-921-35W90",
+     "name": "35dBm 900-2100MHz Dual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%20900-2100MHz%20Dual%20Band%20High%20Power%20Repeater_Model%20HPR-921-35W90.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "MR-921-18W70-TS",
+     "name": "18dBm 900-2100MHz Dual Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/EMTS_Telecom_Services_18dBm_900-2100MHz_Dual_Band_Mini_Repeater_Model_MR-921-18W70-TS.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "IHPR-921-40W95",
+     "name": "40dBm 900-2100MHz Dual Band High Power ICS Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm_900-2100MHz_Dual_Band-selective_High_Power_ICS_Repeater_Model_IHPR-921-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "1800-2100MHz RF Repeaters",
+   "image": "/products/r1800-2100.jpg",
+   "bullets": [
+    "Comply with DCS1800MHz &2100MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPP Standards",
+    "Very high out of band rejection to avoid cross bands interferences",
+    "Multiple types with composite output power from 21dBm to 35dBm per band",
+    "Low Noise figure&excellent linear RF performance",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustablecontinuouslyoutput level",
+    "Adjustable band with High selectivity for excellent out of band signal rejection",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability",
+    "Local or Remote management through wireless modem"
+   ],
+   "products": [
+    {
+     "sku": "MR-1821-21W70",
+     "name": "21dBm 1800-2100MHz Dual Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/21dBm_1800-2100MHz_Dual_Band_Mini_Repeater_Model_MR-18-21-21W70.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-1821-30W80",
+     "name": "30dBm 1800-2100MHz Dual Band Power Repeater",
+     "doc": "/media/com_product/images/30dBm%201800-2100MHz%20Dual%20Band%20Power%20Repeater_Model%20PR-1821-30W80.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "HPR-1821-35W90",
+     "name": "35dBm 1800-2100MHz Dual Band High Power Repeater",
+     "doc": "/media/com_product/images/35dBm%201800-2100MHz%20Dual%20Band%20High%20Power%20Repeater_Model%20HPR-18-21-35W90.doc",
+     "docKind": "DOC"
+    },
+    {
+     "sku": "MR-1821-18W70-TS",
+     "name": "18dBm 1800-2100MHz Dual Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/EMTS_Telecom_Services_18dBm_1800-2100MHz_Dual_Band_Mini_Repeater_Model_MR-1821-18W70-TS.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "800-2100MHz RF Repeaters",
+   "image": null,
+   "bullets": [],
+   "products": [
+    {
+     "sku": "MR-821-18W70-TS",
+     "name": "18dBm 800-2100MHz Dual Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/EMTS_Telecom_Services_18dBm_800-2100MHz_Dual_Band_Mini_Repeater_Model_MR-821-18W70-TS.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "800-1800-2600MHz RF Repeaters",
+   "image": "/products/r800-1800-2600.jpg",
+   "bullets": [
+    "Comply with EU LTE 800MHz DCS 1800MHz and LTE 2600MHz bands requirements, meets GSM and LTE ETSI and 3GPP Standards.",
+    "Very high out of band rejection to avoid cross bands interferences.",
+    "Supports full or partial bandwidth.",
+    "Multiple types with composite Output power from 24dBm to 30dBm per band.",
+    "Low Noise figure & excellent linear RF performance.",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustable continuously output level",
+    "Adjustable band with High selectivity for excellent out of band signal rejection.",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability."
+   ],
+   "products": [
+    {
+     "sku": "MR-81826-24W70",
+     "name": "24dBm 800-1800-2600MHz Tri Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/24dBm_800-1800-2600MHz_Tri-Band_Mini-Repeater_Model_MR-81826-24W70.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-81826-30W80",
+     "name": "30dBm 800-1800-2600MHz Tri Band Power Repeater",
+     "doc": "/media/com_product/images/thumb/30dBm_800-1800-2600MHz_Tri-Band-Power_Repeater_Model_PR-81826-30W80.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "850-1700-1900MHz RF Repeater",
+   "image": "/products/r850-1700-1900.jpg",
+   "bullets": [
+    "Comply with Cellular 850MHz, AWS 1700MHz and PCS 1900MHz bands requirements",
+    "Meets GSM LTE ETSI and 3GPPStandards with 30dBm composite output power per band",
+    "Very high out of band rejection to avoid cross bands interferences",
+    "Supports full or partial bandwidth",
+    "Low Noise figure&excellent linear RF performance",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustablecontinuouslyoutput level",
+    "Adjustable band with High selectivity for excellent out of band signal rejection",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability."
+   ],
+   "products": [
+    {
+     "sku": "MR-851719-30W80",
+     "name": "30dBm 850-1700-1900MHz Tri-Band Repeater",
+     "doc": "/media/com_product/images/30dBm%20850-1700-1900MHz%20Tri-Band%20Repeater_Model%20MR-851719-30W80.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "850-1800-2100 MHz RF Repeaters",
+   "image": "/products/r850-1800-2100.jpg",
+   "bullets": [
+    "Comply with Cellular 850, DCS 1800 and 2100 MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPP Standards",
+    "Very high out of band rejection to avoid cross bands interferences",
+    "Supports full or partial bandwidth",
+    "Multiple types with composite Output power from 24dBm to 30dBm per band",
+    "Low Noise figure&excellent linear RF performance",
+    "Smart Automatic Level Control(ALC)ensures stable and adjustablecontinuouslyoutput level",
+    "Adjustable band with High selectivity for excellent out of band signal rejection",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability."
+   ],
+   "products": [
+    {
+     "sku": "MR-851821-24W70",
+     "name": "24dBm 850-1800-2100MHz Tri Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/850-1800-2100MHz_24dBm_Tri_Band_Mini_Repeater_Model_No_MR-85-18-21-24W70.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-851821-30W80",
+     "name": "30dBm 850-1800-2100MHz Tri Band Power Repeater",
+     "doc": "/media/com_product/images/thumb/850-1800-2100MHz_30dBm_Tri_Band_Power_Repeater_Model_No_MR-85-18-21-30W80.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "900-1800-2100 MHz RF Repeaters",
+   "image": "/products/r900-1800-2100.jpg",
+   "bullets": [
+    "Comply with 900MHz, DCS 1800MHz and 2100MHz bands requirements, meets GSM, WCDMA and LTE ETSI and 3GPP Standards",
+    "Very high out of band rejection to avoid cross bands interferences",
+    "Supports full or partial bandwidth",
+    "Multiple types with composite output power from 24dBm to 40dBm per band",
+    "Very low uplink noise - an excellent solution to extend BTS coverage range for Outdoor or In-Building deployments.",
+    "Smart Automatic Level Control(ALC)ensures output level stable and adjustable continuously",
+    "Adjustable band with high selectivity for excellent out of band signal rejection",
+    "Efficient thermal characteristics, careful component selection and robust design result in high system reliability"
+   ],
+   "products": [
+    {
+     "sku": "MR-91821-24W70",
+     "name": "24dBm 900-1800-2100MHz Triple Band Mini Repeater",
+     "doc": "/media/com_product/images/thumb/24dBm_900-1800-2100MHz_Triple_Band_Mini_Repeater_Model_MR-91821-24W70.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-91821-30W80",
+     "name": "30dBm 900-1800-2100MHz Triple Band Power Repeater",
+     "doc": "/media/com_product/images/thumb/30dBm_900-1800-2100MHz_Triple_Band_Power_Repeater_Model_PR-91821-30W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DR-91821-30W80",
+     "name": "30dBm 900-1800-2100MHz Triple Band Tunable Power Repeater",
+     "doc": "/media/com_product/images/thumb/30dBm_900-1800-2100MHz_Triple_Band_Tunable_Power_Repeater_Model_DR-91821-30W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-91821-36W91",
+     "name": "36dBm 900-1800-2100MHz Triple Band Macro Repeater",
+     "doc": "/media/com_product/images/thumb/36dBm_900-1800-2100MHz_Triple_Band_High_Power_Repeater_Model_HPR-91821-36W91.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-91821-40W90",
+     "name": "40dBm 900-1800-2100MHz Triple Band High Power Repeater",
+     "doc": "/media/com_product/images/thumb/40dBm_900-1800-2100MHz_Triple-Band-High_Power_Repeater_Model_HPR-91821-40W90.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DHPR-91821-30W90",
+     "name": "30dBm 900-1800-2100MHz Triple Band Digital Power Repeater",
+     "doc": "/media/com_product/images/thumb/30dBm_900-1800-2100MHz_Triple-Band-Digital-High-Power-Repeater_Model-DHPR-91821-30W90.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DHPR-91821-43W90  Rev1",
+     "name": "43dBm 900-1800-2100MHz Triple Band Digital Power Repeater",
+     "doc": "/media/com_product/images/thumb/43dBm_900-1800-2100MHz_Triple-Band-Digital-High-Power-Repeater_Model-DHPR-91821-43W90-Rev1.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPRI-91821-40W95",
+     "name": "40dBm 900-1800-2100MHz Dual Band High Power ICS Repeater",
+     "doc": "/media/com_product/images/thumb/ICS-40dBm_900-1800-2100MHz_Triple-Band-selective-High-Power-ICS-Repeater_Model-HPRI-91821-40W95.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  }
+ ],
+ "Distributed Antenna System": [
+  {
+   "family": "Cellular Fiber Distribution Antenna System (DAS)",
+   "image": "/products/f1.jpg",
+   "bullets": [
+    "Advanced Tri-Band, Dual Band or Single Band system supporting all wireless air protocols includes GSM, WCDMA 3G, LTE 4G, WiMAX operating from 450MHz, LTE 800MHz , SMR and Cellular 850MHz , 900MHz, PDC 1400MHz, AWS 1700MHz , DCS 1800MHz, PCS1900 MHz, UMTS2100MHz, and LTE 2600MHz.",
+    "Supports multi-band, multi-operators and multi-technologies applications.",
+    "Comply with ETSI, 3GPP and LTE 4G standards",
+    "40dBm Downlink power per band, designed for in building or outdoor deployments",
+    "Easy field installation and maintenance, reduces rollout and operational costs",
+    "Advance monitoring systems with the possibility to send alarms via fiber cable from master to slave or via GSM modem.",
+    "Four (4) Remote units per master unit, designed to connect to POI (Point of Interconnection) to support multi-operator deployments.",
+    "Compact Size in IP65 enclosure (Aluminum-alloy)."
+   ],
+   "products": [
+    {
+     "sku": "FOR-900-43W80",
+     "name": "900MHz Fiber Optic Repeater System",
+     "doc": "/media/com_product/images/thumb/900MHz_Fiber_Optic_Repeater_System_Model_No_FOR-900-43W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "FOR-851719-40W55",
+     "name": "850-1700-1900MHz 40dBm Tri-Band Fiber Optic Repeater System",
+     "doc": "/media/com_product/images/thumb/850-1700-1900MHz_40dBm_Tri-Band_Fibe_Optic_Repeater_System_Model_FOR-851719-40W55.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "FOR-91821-40W55",
+     "name": "900-1800-2100MHz 40dBm Tri-Band Fiber Optic Repeater System",
+     "doc": "/media/com_product/images/900-1800-2100MHz%2040dBm%20Tri-Band%20Fiber%20Optic%20Repeater%20System_%20Model_FOR-91821-40W55.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "In Builiding DAS - Poinit Of Interface unit (POI)",
+   "image": "/products/f2.jpg",
+   "bullets": [
+    "US and EU types.",
+    "High Performance and high reliability with up to 16 inputs (4 per band) combined  into up to 4 outputs.",
+    "Very cost effective antenna sharing solution for Indoor/Outdoor applications",
+    "High power BTS conditioning 150 watts per port.",
+    "Very Low Passive Inter-Modulation (PIM),",
+    "Extremely low Insertion loss.",
+    "DAS vendor neutral, support duplexed and non-duplexed signal and uplink diversity",
+    "Programmable Dynamic DL Power Control"
+   ],
+   "products": [
+    {
+     "sku": "POI-U-700-2700-16T4",
+     "name": "Point of Interface POI 700-2700 MHz US type",
+     "doc": "/media/com_product/images/thumb/Point_of_Interface_700-2700_US_type_Model_POI-U-700-2700-16T4.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "POI-E-800-2700-16T4",
+     "name": "Point of Interface POI_800-2700 MHz EU Type",
+     "doc": "/media/com_product/images/thumb/Point_of_Interface_800-2700_EU_type_Model_POI-E-800-2700-16T4.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Public Safety Fiber Distribution Antenna System (DAS)",
+   "image": null,
+   "bullets": [],
+   "products": [
+    {
+     "sku": "FOR-400T-40W60-R1",
+     "name": "TETRA 400MHz High Power Fiber Optic Repeating System",
+     "doc": "/media/com_product/images/thumb/TETRA_400MHz_Fiber_Optic_Repeateing_System_Model_FOR-400T40W60-R1.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DFBDA-800-40W55-R1",
+     "name": "TETRA 800MHz 10W Digital Fiber Optic Repeater System",
+     "doc": "/media/com_product/images/thumb/Point_of_Interface_700-2700_US_type_Model_POI-U-700-2700-16T4.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "FOR-FBDA-400-40W60-R1",
+     "name": "LMR 400MHz High Power Fiber BDA System",
+     "doc": "/media/com_product/images/thumb/LMR_400MHz_High_Power_Fiber_BDA_System_Model_FOR-FBDA-400-40W60-R1.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DFBDA-850-40W55 R1",
+     "name": "SMR 850MHz 10W Digital Fiber Optical Repeater System",
+     "doc": "/media/com_product/images/thumb/SMR_850MHz_10W_Digital_Fiber_Optical_Repeater_System_Model_DFBDA-850-40W55-R1.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "GSM-R Fiber DAS",
+   "image": "/products/f3.jpg",
+   "bullets": [
+    "Fiber Optic RF Repeater is a reliable solution to extend and improve the coverage area of GSM-R network",
+    "Consists of two main modules, Master and multiple Slave units.",
+    "33, 37, 40 or 43dBm composite output power, meet systems standards",
+    "Easy field installation and maintenance reduces rollout and operational costs",
+    "The signal transmission in fiber optic repeater is not disturbed by outside influences",
+    "Provide very quick RF coverage service to your GSM-R Base-Station",
+    "Compact Size and High Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Remote unit design for wall mounting &Base unit design for 19-inch rack"
+   ],
+   "products": [
+    {
+     "sku": "DFBDA-GSM-R-900-40W55-R1",
+     "name": "GSM-R 900MHz Digital Fiber Optical Repeater",
+     "doc": "/media/com_product/images/thumb/GSM-R_900MHz_Digital_Fiber_Optical_Repeater_DFBDA-GSM-R-900-40W55-R1.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  }
+ ],
+ "Public Safety BDA & DAS": [
+  {
+   "family": "VHF Bi Directional Amplifier",
+   "image": "/products/p1.jpg",
+   "bullets": [
+    "Supports all combinations of VHF150-172 MHz band with 37 dBm composite power.",
+    "Utilizes advanced digital IF technology.",
+    "Provide quick RF coverage service to your LMR Base-Station",
+    "Waterproof enclosure suitable for outdoor and indoor deployments.",
+    "Metal cavity filter technology, allows wider receiving / transmitting separation, higher stability and lower noise figure."
+   ],
+   "products": [
+    {
+     "sku": "CSHP-BDA-VHF-37W85",
+     "name": "VHF Channel Selective Bi Directional Amplifier (BDA)",
+     "doc": "/media/com_product/images/thumb/VHF_Channel_Selective_BDA_Model_No_CSHP-BDA-VHF-37W85.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "BDA's 380-512 MHz",
+   "image": "/products/p2.jpg",
+   "bullets": [
+    "Bi Directional Amplifier (BDA) configuration with multiple levels of output power from 20 dBm up to 40 dBm downlink composite power.",
+    "Meets PMR / LMR standards includes APCO 25  and Analog system standards",
+    "Supports all combinations of 400 MHz band.",
+    "High-end linear amplification with low spurious inter-modulation output",
+    "High reliability; MTBF \u2265100,000hours\u00b8waterproof enclosure suitable for outdoor and indoor deployments",
+    "Advanced design, with built-in ALC function, provides auto amplitude fixing, Auto Shutdown, Over output protection and prevent oscillations in case of low or marginal isolation between the donor and the service antennas."
+   ],
+   "products": [
+    {
+     "sku": "MR-400-20W70",
+     "name": "LMR 400 MHz Mini Bi Directional Amplifier",
+     "doc": "/media/com_product/images/thumb/LMR_400MHz_High_Selectivity_Mini_BDA.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "CSHP-BDA-400-40W90",
+     "name": "LMR 400 MHz Channel Selective High Power BDA",
+     "doc": "/media/com_product/images/thumb/LMR_400MHz_Channel_Selective_High_Power_BDA.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPBDA-400-40W90",
+     "name": "LMR 400 MHz High Power Band Selective Repeater",
+     "doc": "/media/com_product/images/thumb/LMR_400MHz_High_Power_Band_Slective_Repeater.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Fiber DAS system 380-512 MHz",
+   "image": "/products/p3.jpg",
+   "bullets": [
+    "Fiber Optic RF Repeater is a reliable solution to extend and improve the coverage area of UHF LMR 400MHz band",
+    "Consists of two main modules, Master and multiple Slave units.",
+    "33, 37, 40 or 43dBm composite output power, meet systems standards",
+    "Easy field installation and maintenance reduces rollout and operational costs",
+    "The signal transmission in fiber optic repeater is not disturbed by outside influences",
+    "Provide very quick RF coverage service to your LMR/PMR Base-Station",
+    "Compact Size and High Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Remote unit design for wall mounting &Base unit design for 19-inch rack"
+   ],
+   "products": [
+    {
+     "sku": "FOR-FBDA-400-AW60",
+     "name": "LMR 400 MHz High Power Fiber BDA System",
+     "doc": "/media/com_product/images/LMR%20400MHz%20High%20Power%20Fiber%20BDA%20System.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "In Line Booster 380-512 MHz",
+   "image": "/products/p4.jpg",
+   "bullets": [
+    "Compensate insertion loss of passive components and transmission losses of feeder cables.",
+    "Used for or Indoor Distributions or Tunnel Coverage.",
+    "Advance Bi Directional Technology.",
+    "30 / 33 / 37dBm composite power types, meet LMR/PMR system standards.",
+    "Supports all combinations of APCO-25 and Analog 400 MHz bands",
+    "Provide quick RF coverage service to your LMR Base-Station.",
+    "Compact Size and high Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Metal cavity filter technology, allows wider receiving and transmitting separation, gain flatness, higher stability and lower noise figure"
+   ],
+   "products": [
+    {
+     "sku": "ILB-400-33W48",
+     "name": "LMR 400 MHz In Line Booster",
+     "doc": "/media/com_product/images/thumb/LMR_400MHz_In_Line_Booster_Model_ILB-400-33W48.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "BDA's SMR 850 MHz",
+   "image": "/products/p5.jpg",
+   "bullets": [
+    "Bi Directional Amplifier (BDA) configuration with multiple levels of output power from 13 dBm up to 40 dBm downlink composite power.",
+    "Fully comply withSMR, APCO25, iDEN &LTE standards .",
+    "High-end linear amplification with low spurious inter-modulation output",
+    "High reliability; MTBF \u2265100,000hours\u00b8waterproof enclosure suitable for outdoor and indoor deployments",
+    "Advanced design, with built-in ALC function, provides auto amplitude fixing, Auto Shutdown,over output protection and prevent oscillations incase of low or marginal isolation between the donor and the service antennas."
+   ],
+   "products": [
+    {
+     "sku": "MR-85S-20W75",
+     "name": "SMR 850MHz 20 dBm mini Bi Directional Amplifier",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "HPR-85S-40W90-TB",
+     "name": "SMR 850MHz 40dBm Tunable Bandwidth BDA",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "MR-85S-13W65-S",
+     "name": "SMR 850MHz 13dBm Micro Bi Directional Amplifier",
+     "doc": "/media/com_product/images/thumb/SMR_850MHz_13dBm_Micro_Repeater_MR-85S-13W65-S.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-85S-30W80",
+     "name": "SMR 850MHz 30dBm Bi Directional Amplifier",
+     "doc": "/media/com_product/images/thumb/SMR_850MHz_30dBm_BDA_Model_PR-85S-30W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-85S-33W80",
+     "name": "SMR 850MHz 33dBm Bi Directional Amplifier-Repeater",
+     "doc": "/media/com_product/images/thumb/SMR_850MHz_13dBm_Micro_Repeater_MR-85S-13W65-S.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Fiber DAS SMR 850 MHz",
+   "image": "/products/p6.jpg",
+   "bullets": [
+    "Fiber Optic RF Repeater is a reliable solution to extend and improve the coverage area of SMR 850 MHz network.",
+    "Consists of two main modules, Master and multiple Slave units.",
+    "33, 37, 40 or 43dBm composite output power, meet systems standards",
+    "Easy field installation and maintenance reduces rollout and operational costs",
+    "The signal transmission in fiber optic repeater is not disturbed by outside influences",
+    "Provide very quick RF coverage service to your SMR/APCO-25, iDEN and LTE Base-Stations.",
+    "Compact Size and High Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Remote unit design for wall mounting &Base unit design for 19-inch rack"
+   ],
+   "products": [
+    {
+     "sku": "DFBDA-850-40W55",
+     "name": "700-800 MHz 20dBm Mini-Repeater BDA",
+     "doc": "/media/com_product/images/thumb/SMR_850MHz_10W_Digital_Fiber_Optical_Repeater_System.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "SMR 700/850 MHz Covrage Solutions",
+   "image": "/products/lmr1.jpg",
+   "bullets": [
+    "Supports all combinations of VHF150-172 MHz band with 37 dBm composite power.",
+    "Utilizes advanced digital IF technology.",
+    "Provide quick RF coverage service to your LMR Base-Station",
+    "Waterproof enclosure suitable for outdoor and indoor deployments.",
+    "Metal cavity filter technology, allows wider receiving / transmitting separation, higher stability and lower noise figure."
+   ],
+   "products": [
+    {
+     "sku": "PR-70-80-30W80",
+     "name": "700-800 MHz 30dBm Power Repeater BDA",
+     "doc": "/media/com_product/images/thumb/700-800MHz_30dBm_Power-Repeater.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-70-80-33W80",
+     "name": "700-800 MHz 33dBm Power Repeater BDA",
+     "doc": "/media/com_product/images/thumb/700-800MHz_33dBm_Power-Repeater.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-70-80-40W90",
+     "name": "700-800 MHz 40dBm High Power Repeater BDA",
+     "doc": "/media/com_product/images/thumb/700-800MHz_40dBm_High_Power-Repeater.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MR-70-80-20W70-5-3",
+     "name": "700-800MHz 20dBm Mini-Repeater",
+     "doc": "/media/com_product/images/thumb/700-800MHz_20dBm_Mini-Repeater.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "TETRA 400MHz BDA's",
+   "image": "/products/p7.jpg",
+   "bullets": [
+    "Bi Directional Amplifier (BDA) configuration with multiple levels of output power from 20 dBm up to 40 dBm downlink composite power.",
+    "Fully comply with TETRA standard, supports all combinations of TETRA 400 MHz bands",
+    "Remote monitoring via wireless modem",
+    "High-end linear amplification with low spurious inter-modulation output",
+    "High reliability; MTBF \u2265100,000hours\u00b8waterproof enclosure suitable for outdoor and indoor deployments",
+    "Advanced design, with built-in ALC function, provides auto amplitude fixing, Auto Shutdown,over output protection and prevent oscillations in case of low or marginal isolation between the donor and the service antennas."
+   ],
+   "products": [
+    {
+     "sku": "EMTS-MR-400-20W70",
+     "name": "TETRA 400 MHz 20 dBm High Selectivity Mini Bi-Directional Amplifier",
+     "doc": "/media/com_product/images/thumb/TETRA_400MHz_High_Selectivity_Mini_Repeater.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-400-40W90",
+     "name": "TETRA 400 MHz 40dBm High Power Band Selective  Repeater / BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_400MHz_40dBm_Band_Selective_High_Power_Repeater_BDA_Model_HPR-400-40W90.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "EMTS-CSPR-400-40W90",
+     "name": "TETRA 400 MHz 40dBm High Power Channel Selective Repeater/BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_400_MHz_Channel_Selective_High_Power_Repeater_BDA_Model_CSPR-400-40W90.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-450-30W80",
+     "name": "TETRA 400MHz 30dBm Band Selective Power Repeater",
+     "doc": "/media/com_product/images/thumb/TETRA_400MHz_30dBm_Band_Selective_High_Power_Repeater_BDA_Model_PR-450-30W70.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "TETRA 400MHz Fiber DAS",
+   "image": "/products/p8.jpg",
+   "bullets": [
+    "Fiber Optic RF Repeater is a reliable solution to extend and improve the coverage area of TETRA 400MHz network",
+    "Consists of two main modules, Master and multiple Slave units.",
+    "33, 37, 40 or 43dBm composite output power, meet systems standards",
+    "Easy field installation and maintenance reduces rollout and operational costs",
+    "The signal transmission in fiber optic repeater is not disturbed by outside influences",
+    "Provide very quick RF coverage service to your TETRA Base-Station",
+    "Compact Size and High Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Remote unit design for wall mounting &Base unit design for 19-inch rack"
+   ],
+   "products": [
+    {
+     "sku": "EMTS-FOR-400-40W60",
+     "name": "TETRA 400MHz Fiber Optic Repeating System",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "TETRA 400MHz In Line Booster",
+   "image": "/products/p9.jpg",
+   "bullets": [
+    "Compensate insertion loss of passive components and transmission losses of feeder cables.",
+    "Used for or Indoor Distributions or Tunnel Coverage.",
+    "Advance Bi Directional Technology.",
+    "30 / 33 / 37dBm composite power types, meet TETRA system standards.",
+    "Supports all combinations of TETRA at all combinations of 400 MHz band.",
+    "Provide quick RF coverage service to your TETRA Base-Station.",
+    "Compact Size and high Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Metal cavity filter technology, allows wider receiving and transmitting separation, gain flatness, higher stability and lower noise figure"
+   ],
+   "products": [
+    {
+     "sku": "EMTS-ILB-400-33W48",
+     "name": "TETRA 400 MHz In Line Booster",
+     "doc": null,
+     "docKind": null
+    }
+   ]
+  },
+  {
+   "family": "TETRA 800 MHz BDA's",
+   "image": "/products/p10.jpg",
+   "bullets": [
+    "Bi Directional Amplifier (BDA) configuration with multiple levels of output power from 13 dBm up to 40 dBm downlink composite power.",
+    "Fully comply with TETRA standard, supports all combinations of TETRA 400 MHz bands",
+    "Remote monitoring via wireless modem",
+    "High-end linear amplification with low spurious inter-modulation output",
+    "High reliability; MTBF \u2265100,000hours\u00b8waterproof enclosure suitable for outdoor and indoor deployments",
+    "Advanced design, with built-in ALC function, provides auto amplitude fixing, Auto Shutdown,over output protection and prevent oscillations in case of low or marginal isolation between the donor and the service antennas."
+   ],
+   "products": [
+    {
+     "sku": "MR-800-13W65",
+     "name": "TETRA 800MHz 13dBm Micro Repeater BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_800MHz_13dBm_Micro_Repeater_BDA_Model_MR-800T-13W65.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MR-800T-20W75",
+     "name": "TETRA 800 MHz 20dBm mini Repeater BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_800MHz_20dBm_mini_Repeater_BDA_Model_MR-800T-20W75.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MR-800T-30W80",
+     "name": "TETRA 800 MHz 30dBm Power Repeater BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_800MHz_30dBm_Power_Repeater_BDA_Model_MR-800T-30W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-800T-33W80",
+     "name": "TETRA 800 MHz 33dBm Power Repeater BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_800MHz_33dBm_Power_Repeater_BDA_Model_No_PR-800T-33W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-800T-40W90-TB",
+     "name": "TETRA 800 MHz 40dBm Tunable Bandwidth Repeater BDA",
+     "doc": "/media/com_product/images/thumb/TETRA_800MHz_40dBm_Tunable_Bandwidth_Repeater_BDA.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "800T-33W80-CBS",
+     "name": "TETRA 800 MHz 33dBm Hybrid Digital Power Repeater (BDA)",
+     "doc": "/media/com_product/images/thumb/Hybrid_TETRA_800MHz_33dBm_Digital_Power_Repeater_BDA_Model_No_DPR-800T-33W80-CBS.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "800T-43W80-CBS",
+     "name": "TETRA 800 MHz 33dBm Hybrid Digital Power Repeater (BDA)",
+     "doc": "/media/com_product/images/thumb/Hybrid_TETRA_800MHz_43dBm_Digital_Power_Repeater_BDA_Model_No_DPR-800T-43W80-CBS.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "TETRA 800 MHz Fiber DAS",
+   "image": "/products/f11.jpg",
+   "bullets": [
+    "Fiber Optic RF Repeater is a reliable solution to extend and improve the coverage area TETRA 800MHz network.",
+    "Consists of two main modules, Master and multiple Slave units.",
+    "33, 37, 40 or 43dBm composite output power, meet systems standards",
+    "Easy field installation and maintenance reduces rollout and operational costs",
+    "The signal transmission in fiber optic repeater is not disturbed by outside influences",
+    "Provide very quick RF coverage service to your TETRA Base-Station",
+    "Compact Size and High Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Remote unit design for wall mounting &Base unit design for 19-inch rack"
+   ],
+   "products": [
+    {
+     "sku": "DFBDA-800-40W55",
+     "name": "TETRA 800 10W Digital Fiber Optical Repeater KIT",
+     "doc": "/media/com_product/images/SMR%20850MHz%20_10W_Digital_Fiber_Optical_Repeater%20System_Model_DFBDA-850-40W55.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "TETRA 800 MHz In Line Booster",
+   "image": "/products/p12.jpg",
+   "bullets": [
+    "Compensate insertion loss of passive components and transmission losses of feeder cables.",
+    "Used for or Indoor Distributions or Tunnel Coverage.",
+    "Advance Bi Directional Technology.",
+    "30 / 33 / 37dBm composite power types, meet TETRA system standards.",
+    "Supports all combinations of TETRA 800 MHz band.",
+    "Provide quick RF coverage service to your TETRA Base-Station.",
+    "Compact Size and high Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Metal cavity filter technology, allows wider receiving and transmitting separation, gain flatness, higher stability and lower noise figure"
+   ],
+   "products": [
+    {
+     "sku": "ILB-800-33W48",
+     "name": "TETRA 800 MHz In-Line Booster",
+     "doc": "/media/com_product/images/thumb/Tetra_800MHz_In_Line_Booster_Model_EMTS-ILB-800-33W48.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "GSM-R Repeaters",
+   "image": "/products/p13.jpg",
+   "bullets": [
+    "Bi Directional Amplifier (BDA) configuration with multiple levels of output power from 21 dBm up to 40 dBm downlink composite power.",
+    "Fully comply with GSM-R standard,",
+    "Light weight, compact Size and high Performance",
+    "Comply with Railway Telecommunications (RT); ER-GSM frequencies; Part 1: ER-GSM additional radio aspects, ETSI TS 102 281 V3.0.0 (2016-02.",
+    "Cost effective alternative to exclusive BTS solution",
+    "User friendly GUI & plug and play installation",
+    "Isolation detection function",
+    "Low power consumption, Linear power amplification to effectively suppress inter-modulation and spurious emission."
+   ],
+   "products": [
+    {
+     "sku": "MR-GR-900-21W75",
+     "name": "GSM-R 900 MHz 21dBm Band Selective Mini Repeater",
+     "doc": "/media/com_product/images/thumb/GSM-R_900MHz_21dBm_Band_Selective_Mini_Repeater_Model_MR-GR-900-21W75.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PR-GR-900-30W80",
+     "name": "GSM-R 900 MHz 30dBm Band Selective Power Repeater",
+     "doc": "/media/com_product/images/thumb/GSM-R_900MHz_30dBm_Band_Selective_Power_Repeater-Model_PR-GR-900-30W80.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "HPR-GR-900-40W90",
+     "name": "GSM-R 900 MHz 40dBm High Power Repeater",
+     "doc": "/media/com_product/images/GSM-R%20900%20MHz%2040dBm%20High%20Power%20Repeater_Model%20HPR-GR-900-40W90.doc",
+     "docKind": "DOC"
+    }
+   ]
+  },
+  {
+   "family": "GSM -R Fiber DAS",
+   "image": "/products/p14.jpg",
+   "bullets": [
+    "Fiber Optic RF Repeater is a reliable solution to extend and improve the coverage area of GSM-R network",
+    "Consists of two main modules, Master and multiple Slave units.",
+    "33, 37, 40 or 43dBm composite output power, meet systems standards",
+    "Easy field installation and maintenance reduces rollout and operational costs",
+    "The signal transmission in fiber optic repeater is not disturbed by outside influences",
+    "Provide very quick RF coverage service to your GSM-R Base-Station",
+    "Compact Size and High Performance in waterproof enclosure suitable for outdoor and indoor installations",
+    "Remote unit design for wall mounting &Base unit design for 19-inch rack"
+   ],
+   "products": [
+    {
+     "sku": "DFBDA-GSM-R-900-40W55-P",
+     "name": "GSM-R 900 MHz _Digital Fiber Optical Repeater",
+     "doc": "/media/com_product/images/thumb/GSM-R_900MHz_Digital_Fiber_Optical_Repeater_DFBDA-GSM-R-900-40W55-P.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  }
+ ],
+ "Active Devices": [
+  {
+   "family": "Multi Carrier Power Amplifier (MCPA)",
+   "image": "/products/m1.jpg",
+   "bullets": [
+    "450 MHz, 850 MHz, 900 MHz, 1400 MHz, 1800 MHz, 1900 MHz, 2100 MHz  2600 MHz, 3500 MHz types.",
+    "Support GSM, WCDMA, LTE, WiMAX air protocol, fully comply with 3GPP standard",
+    "Solid-state linearized design with up to 100 watts linear output power",
+    "Small form factor and lightweight",
+    "Suitable for single & multi FA WCDMA or LTE",
+    "High reliability and ruggedness.",
+    "Built-in Control & Monitoring Circuits",
+    "Built-in Output Isolator"
+   ],
+   "products": [
+    {
+     "sku": "MCPA-450-50W50",
+     "name": "450MHz 50 watts MCPA",
+     "doc": "/media/com_product/images/thumb/450MHz_50_watts_MCPA_MCPA-450-50W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-850-47W50",
+     "name": "850 MHz 50 watt MCPA",
+     "doc": "/media/com_product/images/thumb/850MHz_50_watt_MCPA_Model_No_MCPA-850-47W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-900-60W50",
+     "name": "900 MHz 50 watts MCPA",
+     "doc": "/media/com_product/images/thumb/900MHz_50_watts_MCPA_Model_PA-900-60W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-1400-60W50",
+     "name": "1500 MHz PDC Japan 50 watts MCPA",
+     "doc": "/media/com_product/images/thumb/1500MHz_PDC_Japan_50_watts_MCPA_Model_No_MCPA-1400-60W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-1800-60W50",
+     "name": "1800 MHz DCS 50 watts MCPA",
+     "doc": "/media/com_product/images/thumb/1800MHz_DCS_50_watts_MCPA_Model_No_MCPA-1800-60W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-1900-47W50",
+     "name": "1900 MHz PCS 50 watts MCPA",
+     "doc": "/media/com_product/images/thumb/1900MHz_PCS_50_watts_MCPA_Model_No_MCPA-1900-47W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-2100-46W50",
+     "name": "2100MHz WCDMA 40 watts MCPA",
+     "doc": "/media/com_product/images/thumb/2100MHz_WCDMA_40_watts_MCPA_Model_No_MCPA-2100-46W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-2600-46W50",
+     "name": "2600MHz LTE 40 watts MCPA",
+     "doc": "/media/com_product/images/thumb/2600MHz_LTE_40_watts_MCPA_Model_No_MCPA-2600-46W50.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MCPA-3500-46W50",
+     "name": "35000MHz LTE 40 watts MCPA",
+     "doc": "/media/com_product/images/thumb/35000MHz_LTE_40_watts_MCPA_Model_No_MCPA-3500-46W50.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Multi Carrier Outdoor Boosting (TMB)",
+   "image": "/products/m4.jpg",
+   "bullets": [
+    "Supports LTE 800MHz, Cellular850MHz, SMR 850MHz, 900MHz, AWS-1700MHz, 1800MHz, 1900MHz,UMTS 2100MHz,MHz,2600MHz , 3500MHz.",
+    "Employed best advanced pre-distortion and feed-forward technology",
+    "Support multi-carrier LTE (FDD) with high system efficiency",
+    "100W Downlink output power, supports multi-carrier amplifier.",
+    "(Lower or Higher Power types are also available)",
+    "Support flexible downlink input either duplexed or un-duplexed",
+    "Support system full diversity",
+    "Downlink and uplink gain adjustable with wide dynamic range"
+   ],
+   "products": [
+    {
+     "sku": "TMB-M-800-O -51W15",
+     "name": "TMB LTE 800 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/800MHz_LTE_MCPA_Booster_TMB-800-O-51W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-900-O -52W15",
+     "name": "TMB 900 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/900M_MCPA_Booster_TMB-900-O-52W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-1400-O -50W15",
+     "name": "TMB 1400 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/1400MHz_MCPA_Booster_TMB-1400-O-50W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-1700-O -50W15",
+     "name": "TMB AWS 1700 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/1700MHz_MCPA_Booster_TMB-1700-O-50W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-1800-O -51W15",
+     "name": "TMB 1800 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/1800MHz_MCPA_Booster_TMB-1800-O-51W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-2600-O -50W15",
+     "name": "TMB 2600 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/2600MHz_MCPA_Booster_TMB-2600-O-50W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-3500-O -47W15",
+     "name": "TMB 3500 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/3500MHz_MCPA_Booster_TMB-3500-O-47W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-850S-O-50W15",
+     "name": "TMB Cellular 850 MHz Multi Multi-Carrier Boosting System",
+     "doc": "/media/com_product/images/thumb/850MHz_Cellular_TMB-850-O-50W15.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TMB-M-850S-O-50W1",
+     "name": "TMB SMR 850 MHz Multi Carrier Outdoor Boosting System",
+     "doc": "/media/com_product/images/thumb/850MHz_SMR_TMB-850S-O-50W15.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  }
+ ],
+ "Filters, Diplexers & Multiplexers": [
+  {
+   "family": "Base Station (BTS) and DAS band selective filters",
+   "image": "/products/fb1.jpg",
+   "bullets": [
+    "Multiple types from 450 MHz up-to 3500 MHz",
+    "Designed to pass the full band uplink and downlink and to reject out of band interferences and also to minimize the interferences to neighbornetworks.",
+    "Receive only types to minimize the uplink noise.",
+    "Advanced Cavity and dielectric design guarantee minimum insertion loss, high Isolation and excellent PIM performance.",
+    "Easy installation supporting both LTE, WCDMA GSM and CDMA technologies",
+    "Exceptional reliability and environmental protection"
+   ],
+   "products": [
+    {
+     "sku": "BPF-700ABC-70H",
+     "name": "High Selectivity 700MHz LTE (Block ABC) Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/700MHz_LTE_Band_Pass_Filter_Model_BPF-700D-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-FDD3500-70H",
+     "name": "High Selectivity 3500MHz LTE Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/3500MHz_LTE_High_Selectivity_band_pass_filter_Model_BPF-3500-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-TDD2600-70H",
+     "name": "High Selectivity 2600MHz TDD IMT-E Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/2600MHz_TDD_IMT-E_High_Selectivity_band_pass_filter_Model_BPF-TDD2600-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-FDD2600-70H",
+     "name": "High Selectivity 2600MHz FDD IMT-E Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/2600MHz_FDD_IMT-E_High_Selectivity_band_pass_filter_Model_BPF-FDD2600-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-UMTS2100-70H",
+     "name": "High Selectivity 2100MHz UMTS Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/2100MHz_UMTS_High_Selectivity_band_pass_filter_Model_BPF-UMTS2100-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-PCS1900-70H",
+     "name": "High Selectivity 1900MHz PCS Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1900MHz_PCS_High_Selectivity_band_pass_filter_Model_BPF-PCS1900-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-DCS1800-70H",
+     "name": "High Selectivity 1800MHz DCS Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1800MHz_DCS_High_Selectivity_band_pass_filter_Model_BPF-DCS1800-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-AWS1700AI-70H",
+     "name": "High Selectivity 1700 / 2100MHz AWS Extended Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1700-2100MHz_AWS_High_Selectivity_Extended_band_pass_filter_Model_BPF-AWS1700AI-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-AWS1700AF-70H",
+     "name": "High Selectivity 1700 / 2100MHz AWS Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1700-2100MHz_AWS_High_Selectivity_band_pass_filter_Model_BPF-AWS1700AF-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-J-1700-70H",
+     "name": "High Selectivity 1700MHz Japan UMTS Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1700_Japan_High_Selectivity_UMTS_band_pass_filter_Model_BPF-J-1700-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-PDC-1500U-70H",
+     "name": "High Selectivity 1500MHz Japan PDC upper Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1500MHz_PDC_Japan_Selectivity_upper_band_pass_filter_Model_BPF-PDC-1500U-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-PDC-1500L-70H",
+     "name": "High Selectivity 1500MHz Japan PDC lower Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/1500MHz_PDC_Japan_High_Selectivity_lower_band_pass_filter_Model_BPF-PDC-1500L-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-925-70H",
+     "name": "High Selectivity 900MHz Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/900MHz_High_Selectivity_band_pass_filter_Model_BPF-925-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-850S-70H",
+     "name": "High Selectivity 850MHz SMR Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/850MHz_SMR_High_Selectivity_band_pass_filter_Model_BPF-850S-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-850-70H",
+     "name": "High Selectivity 850MHz Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/850MHz_Cellular_High_Selectivity_band_pass_filter_Model_BPF-850-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-800E-70H",
+     "name": "High Selectivity 800MHz LTE (EU) Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/800MHz_LTE_EU_High_Selectivity_Band_Pass_Filter_Model_BPF-800E-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-800-JU-70H",
+     "name": "High Selectivity 800MHz Japan Upper Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/800MHz_Japan_High_Selectivity_Upper_Band_Pass_Filter_Model_BPF-800-JU-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-800-JL-70H",
+     "name": "High Selectivity 800MHz Japan Lower Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/800MHz_Japan_High_Selectivity_Lower_Band_Pass_Filter_Model_BPF-800-JL-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-700D-70H",
+     "name": "High Selectivity 700MHz LTE (Block D) Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/700MHz_LTE_Model_BPF-700C-70H.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "BPF-700C-70H",
+     "name": "High Selectivity 700MHz LTE (Block C) Band Pass Filter",
+     "doc": "/media/com_product/images/thumb/700MHz_LTE_Band-Pass-Filter_Model_BPF-700ABC-70H.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Base Station (BTS) and DAS Diplexers and Cross Band Couplers",
+   "image": "/products/fb2.jpg",
+   "bullets": [
+    "Multiple types from 700 MHz up-to 2100 MHz",
+    "Designed to Split or to combine between low band and up band into one antenna or one output, Cavity Design, designed for co-siting purposes, Supports DC/AISG Bypass.",
+    "Available as a single unit for DAS, or a dual unit to support BTS tower structure.",
+    "Very Low Passive Intermodulation(PIM) with Extremely low insertion loss, High out of band rejection level, Supporting GSM, LTE and WCDMA",
+    "IP66 enclosure - Suitable for indoor or outdoor applications, Wall or mast mounting, Exceptional reliability and environmental protection."
+   ],
+   "products": [
+    {
+     "sku": "DB-X-CBC-7-17",
+     "name": "700-1700 MHz Diplexer CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/700-1700MHz_Diplexer_CBC_Dual_Band_Combiner_Model_DB-X-CBC-7-17.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-7-19",
+     "name": "700-1900 MHz Diplexer CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/700-1900MHz_Diplexer_CBC_Dual_Band_Combiner_Model_DB-X-CBC-7-19.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-8-18",
+     "name": "800-1800 MHz Diplexer CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/850-1900MHz_Diplexer_CBC_Dual_Band_Combiner_Model_DB-X-CBC-85-19.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-85-19",
+     "name": "850-1900 MHz Diplexer CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/850-1900MHz_Diplexer_CBC_Dual_Band_Combiner_Model_DB-X-CBC-85-19.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-85-21",
+     "name": "850-2100 MHz Diplexer CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/850-2100MHz_Diplexer_CBC_Dual_Band_Combiner_Model_DB-X-CBC-85-21.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-9-18",
+     "name": "900-1800 MHz Diplexer CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/900-1800_MHz_Uplink-Downlink_4_port_Diplexer.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-9-21",
+     "name": "900-2100 MHz Diplexer-CBC Dual Band Combiner",
+     "doc": "/media/com_product/images/thumb/900-2100MHz_Diplexer-CBC_Dual_Band_Combiner_Model_DB-X-CBC-9-21.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DB-X-CBC-18-21",
+     "name": "1800-2100 MHz Diplexer CBC Dual Band Combiner",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "DI-900-1800-DD-80",
+     "name": "Uplink - Downlink 900-1800 MHz 4 port Diplexer",
+     "doc": null,
+     "docKind": null
+    },
+    {
+     "sku": "TB-X-CBC-8-18-26",
+     "name": "800-1800-2600MHz Triplexer CBC Triple Band Combining Unit",
+     "doc": "/media/com_product/images/thumb/lorem_ipsum.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Base Station (BTS) and DAS Triplexers and Cross Band Couplers",
+   "image": "/products/fb3.jpg",
+   "bullets": [
+    "Multiple types from 700 MHz up-to 2100 MHz",
+    "Designed to Split or to combine between three bands into one antenna or one output, Cavity Design, designed for co-siting purposes, Supports DC/AISG Bypass.",
+    "Available as a single unit for DAS, or a dual unit to support BTS tower structure.",
+    "Advanced Cavity and dielectric design guarantee minimum insertion loss, high Isolation and excellent PIM performance.",
+    "Easy installation supporting both LTE, WCDMA GSM and CDMA technologies, Exceptional reliability and environmental protection."
+   ],
+   "products": [
+    {
+     "sku": "TB-X-CBC-7-17-19",
+     "name": "800-1800-2600 MHz Triplexer CBC Triple Band Combining Unit",
+     "doc": "/media/com_product/images/thumb/700-1700-1900MHz_Triplexer_CBC_Triple_Band_Combining_Unit_Model_TB-X-CBC-7-17-19.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TB-X-CBC-85-18-21",
+     "name": "850-1800-2100 MHz Triplexer CBC Triple Band Combining Unit",
+     "doc": "/media/com_product/images/thumb/850-1800-2100MHz_Triplexer_CBC_Triple_Band_Combining_Unit_Model_TB-X-CBC-85-18-21.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TB-X-CBC-9-18-21",
+     "name": "900-1800-2100 MHz Triplexer CBC Triple Band Combining Unit",
+     "doc": "/media/com_product/images/thumb/900-1800-2100MHz_Triplexer_CBC_Triple_Band_Combining_Unit_Model_TB-X-CBC-9-18-21.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "",
+   "image": null,
+   "bullets": [],
+   "products": [
+    {
+     "sku": "EMTS-AC-900-2B",
+     "name": "900 MHz Cavity Antenna Combiner",
+     "doc": "/media/com_product/images/thumb/900MHz_Cavity_Antenna_Combiner_Model_EMTS-AC-900-2B.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "EMTS-AC-1800-2B",
+     "name": "1800 MHz Cavity Antenna Combiner",
+     "doc": "/media/com_product/images/thumb/1800MHz_Cavity_Antenna_Combiner_Model_EMTS-AC-1800-2B.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "EMTS-AC-2100-2B",
+     "name": "2100 MHz Cavity Antenna Combiner",
+     "doc": "/media/com_product/images/thumb/2100MHz_Cavity_Antenna_Combiner_Model_EMTS-AC-2100-2B.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "",
+   "image": null,
+   "bullets": [],
+   "products": [
+    {
+     "sku": "CBC-130-870-1700-2700",
+     "name": "130-2700 MHz Diplexer Cross Band Coupler (CBC)",
+     "doc": "/media/com_product/images/thumb/130-2700MHz_Diplexer_CBC_Model_CBC-130-870-1700-2700.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "",
+   "image": null,
+   "bullets": [],
+   "products": [
+    {
+     "sku": "CC-U-410430",
+     "name": "410-430 MHz UHF High power cavity combiner",
+     "doc": "/media/com_product/images/thumb/410-430MHz_UHF_High_Power_Cavity_Combiner.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  }
+ ],
+ "Passive Devices": [
+  {
+   "family": "Power Spliters 698-3800 MHz",
+   "image": "/products/ps1.jpg",
+   "bullets": [
+    "Wideband from 698 MHz up to 3800 MHz",
+    "Supports LTE 700MHz, LMR 700MHz, LTE-EU 800MHz, SMR 850MHz, Cellular 850MHz, GSM 900MHz, PDC 1400MHz, AWS 1700MHz, DCS 1800MHz , PCS 1900 MHz,  UMTS 2100Mz, LTE 2300MHz LTE 2600MHz ,Wi-Fi  2.4GHz and all latest network topologies.",
+    "Low Insertion Loss & VSWR.",
+    "Qualified PIM less than 160dBc value.",
+    "Easy and simple installation.",
+    "High-quality type, High reliability.",
+    "High power rating up to 300 Watt."
+   ],
+   "products": [
+    {
+     "sku": "PS4-0727-N300",
+     "name": "4-way Power Splitter 700-2700MHz",
+     "doc": "/media/com_product/images/thumb/4_way_Power_Splitter_698-2700MHz_N-Female.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PS2-0727-D300",
+     "name": "2 way Power Splitter 700-2700MHz Din-Female",
+     "doc": "/media/com_product/images/thumb/EMTS_Telecom_Services_2-way_Power_Splitter_700-2700MHz_Din-Female.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "PS3-0727-D300",
+     "name": "3-way_Power_Splitter_700-2700MHz_Din-Female",
+     "doc": "/media/com_product/images/thumb/EMTS_Telecom_Services_3-way_Power_Splitter_700-2700MHz_Din-Female.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Couplers 698-3800MHz",
+   "image": "/products/ps2.jpg",
+   "bullets": [
+    "Wideband from 698 MHz up to 3800 MHz",
+    "Supports LTE 700MHz, LMR 700MHz, LTE-EU 800MHz, SMR 850MHz, Cellular 850MHz, GSM 900MHz, PDC 1400MHz, AWS 1700MHz, DCS 1800MHz, PCS 1900 MHz,  UMTS 2100Mz, LTE 2300MHz LTE 2600MHz, Wi-Fi  2.4GHz and all latest network topologies.",
+    "Low Insertion Loss & VSWR.",
+    "Qualified PIM less than 160dBc value.",
+    "Easy and simple installation.",
+    "High quality, High reliability.",
+    "High power rating up to 500 Watt."
+   ],
+   "products": [
+    {
+     "sku": "DC727-6",
+     "name": "6 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DC727-7",
+     "name": "7 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DC727-10",
+     "name": "10 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DC727-15",
+     "name": "15 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DC727-20",
+     "name": "20 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DC727-30",
+     "name": "30 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "DC727-40",
+     "name": "40 dB Very low PIM Directional Coupler 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/698-2700MHz_High_power_Directional_Coupler_Model_No_DC825-X.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "Hybrid 2x2 698-3800MHz",
+   "image": "/products/ps3.jpg",
+   "bullets": [],
+   "products": [
+    {
+     "sku": "HC-2700-2x2-AY",
+     "name": "2X2 300 watts Low PIM Hybrid Coupler 698-2700MHz",
+     "doc": "/media/com_product/images/thumb/2_by_2_Hybrid_Matrix_698-2700MHz_Model_HC-2700-2x2-AY.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "RF Matrix 4x4 698-3800 MHz",
+   "image": "/products/ps4.jpg",
+   "bullets": [
+    "Cover global wideband from 698 MHz up to 3800 MHz.",
+    "Supports LTE 700MHz, LMR 700MHz, LTE-EU 800MHz, SMR 850MHz, Cellular 850MHz, GSM 900MHz, PDC 1400MHz, AWS-1700MHz, DCS 1800MHz, PCS 1900 MHz,  UMTS 2100Mz, LTE 2300MHz LTE 2600MHz, Wi-Fi  2.4GHz and all latest network topologies.",
+    "Hybrid Type device with low insertion loss.",
+    "Wide frequency range.",
+    "High Isolation with min 30dB across the band.",
+    "Very Low Passive Intermodulation (PIM).",
+    "Handling Power of 500 watts per port.",
+    "Easy installation with DIN connectors."
+   ],
+   "products": [
+    {
+     "sku": "MTX-4X4-698-2700-500-R6",
+     "name": "4x4 500 Watts Low PIM Hybrid Matrix 698-2700 MHz",
+     "doc": "/media/com_product/images/thumb/4x4_500_Watts_Hybrid_Matrix_Model_MTX-4X4-698-2700-500_Rev_6.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "MTX-4X4-698-3800-300",
+     "name": "4x4 300 Watts Low PIM Hybrid Matrix 698-3800 MHz",
+     "doc": "/media/com_product/images/thumb/EMTS_Telecom_Services_4x4_300W_Hybrid_Matrix_Model_MTX-4X4-698-3800-300.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  },
+  {
+   "family": "50 ohm High Power Dummy Load (Termination)",
+   "image": "/products/ps5.jpg",
+   "bullets": [
+    "Wideband from 698 MHz up to 2700 MHz.",
+    "Supports LTE700MHz, LMR 700MHz, LTE-EU 800MHz, SMR 850MHz, Cellular 850MHz, GSM 900MHz PDC 1400MHz, AWS 1700MHz, DCS 1800MHz, PCS 1900 MHz, UMTS 2100Mz, LTE 2300MHz LTE 2600MHz, Wi-Fi  2.4GHzand all latest network topologies.",
+    "Excellent VSWR characteristics",
+    "Qualified PIM less than 160dBc value",
+    "Easy and simple installation",
+    "High power rating up to 150 and 300 Watt types"
+   ],
+   "products": [
+    {
+     "sku": "TR-50-150W-160-D",
+     "name": "Low PIM 150 Watt Termination \u2013 50-ohm Dummy Load",
+     "doc": "/media/com_product/images/thumb/TR-50-150-160-D.pdf",
+     "docKind": "PDF"
+    },
+    {
+     "sku": "TR-50-300-160-DIN",
+     "name": "Very Low PIM 300 Watt Termination \u2013 50-ohm Dummy Load",
+     "doc": "/media/com_product/images/thumb/TR-50-300-160-DIN.pdf",
+     "docKind": "PDF"
+    }
+   ]
+  }
+ ]
+}
